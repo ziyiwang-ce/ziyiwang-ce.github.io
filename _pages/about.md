@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a postdoctoral fellow at the Department of Civil and Environmental Engineering at Colorado School of Mines. I have a Ph.D. in Civil Engineering (Geotechnical Engineering) from Penn State.
 
-My research interests are understanding the fundamental mechanical and physical behaviors of geomaterials like permafrost and developing integrated tools to assess the permafrost degradation induced 
+My research interests focus on understanding the fundamental mechanical and physical behaviors of geomaterials, such as frozen soils, and on developing integrated tools to assess the engineering and socioeconomic impacts of permafrost degradation–induced geohazards on civil infrastructure.  
 
 A data-driven personal website
 ======
