@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Postdoctoral Fellow in the Department of Civil and Environmental Engineering at the Colorado School of Mines, working with Professor Ning Lu. I received my Ph.D. in Civil Engineering (Geotechnical Engineering) from The Pennsylvania State University, under the supervision of Professor Ming Xiao.
 
-My research interests focus on understanding the fundamental mechanical and physical behaviors of geomaterials, such as frozen soils, and on developing integrated tools to assess the engineering and socioeconomic impacts of permafrost degradation–induced geohazards on civil infrastructure.  
+My research interests focus on understanding the fundamental mechanical and physical behaviors of geomaterials, such as frozen soils, and on developing integrated tools to assess the engineering and socioeconomic impacts of permafrost degradation–induced geohazards on civil infrastructure. My research is fundamentally interdisciplinary. I worked with engineers, 
 
 A data-driven personal website
 ======
