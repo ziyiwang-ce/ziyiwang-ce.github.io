@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Creep Deformation and Long-Term Strength of Ice-Rich Permafrost in Northern Alaska"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-13324
+date: 2025-10-21
+venue: 'Journal of Geotechnical and Geoenvironmental Engineering'
+paperurl: 'https://ascelibrary.org/doi/full/10.1061/JGGEFK.GTENG-13324'
+citation: 'Wang, Z., Xiao, M., Bray, M., Nicolsky, D., and Ji, X. 2026. "Creep deformation and long-term strength of ice-rich permafrost in Northern Alaska." J. Geotech. Geoenviron. Eng. 152(1): 04025161. https://doi.org/10.1061/JGGEFK.GTENG-13324.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
