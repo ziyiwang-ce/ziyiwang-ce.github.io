@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "p5.jpg"
   name             : "Ziyi Wang, Ph.D."
   pronouns         : # "He/him"  
   bio              : "Postdoctoral Fellow in Civil and Environmental Engineering"
