@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral fellow at the Department of Civil and Environmental Engineering at Colorado School of Mines. working on fundamental physics of soil freezing and thawing behaviors and integrating constitutive models into community-scale civil infrastructure performance assessment. I have a Ph.D. in Civil Engineering
+I am currently a postdoctoral fellow at the Department of Civil and Environmental Engineering at Colorado School of Mines. I have a Ph.D. in Civil Engineering (Geotechnical Engineering) from Penn State.
+
+My research interests are understanding the fundamental mechanical and physical behaviors of geomaterials like permafrost and developing integrated tools to assess the permafrost degradation induced 
 
 A data-driven personal website
 ======
