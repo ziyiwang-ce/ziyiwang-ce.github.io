@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ziyi Wang / "
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Ziyi Wang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ziyi Wang"
-  pronouns         : # "He/Him"  
-  bio              : "Postdoctoral Fellow"
+  name             : "Ziyi Wang, Ph.D."
+  pronouns         : # "He/him"  
+  bio              : "Postdoctoral Fellow in Civil and Environmental Engineering"
   location         : "Golden, CO, USA"
   employer         : "Colorado School of Mines"
   uri              : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/ceziyi-wang/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
