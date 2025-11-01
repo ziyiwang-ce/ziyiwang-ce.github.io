@@ -13,6 +13,7 @@ My research interests focus on understanding the fundamental mechanical and phys
 
 Specifically, I develop user-friendly infrastructure hazard maps to quantify infrastructure risks at high resolutions to support science-based decision-making and policymaking. The physics-constrained geomechanical model applied in large-scale mapping and risk assessment was established based on field testing, laboratory testing, and process-based modeling. My research mainly focuses on:
 1. I developed the 21st-century high-resolution geomechanical modeling framework to assess the infrastructure geohazards, including thaw settlement and bearing capacity in northern Alaska.
+"brca_communities.png"
 2. I proposed the cryostress concept to unify frozen soils’ behaviors at different temperatures. The concept is analogous to the suction stress concept, which was developed from interparticle force equilibrium, considering physicochemical and mechanical interactions.
 3. I participated in fieldwork on the Arctic Coastal Plain in northern Alaska to retrieve relatively undisturbed permafrost cores and conduct multichannel surface wave analysis. I investigated the geomechanical and geophysical behavior of undisturbed permafrost in situ and in the laboratory.
 4. I developed multiphysical models to understand permafrost thaw consolidation behaviors, considering adsorptive and capillary unfrozen water and secondary compression behavior.
