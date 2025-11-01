@@ -18,7 +18,7 @@ Specifically, I develop user-friendly infrastructure hazard maps to quantify inf
 
 
 2. I proposed the cryostress concept to unify frozen soils’ behaviors at different temperatures. The concept is analogous to the suction stress concept, which was developed from interparticle force equilibrium, considering physicochemical and mechanical interactions.
-<img src="/images/cryostress_concept.png" alt="Soil freezing regimes and cryostress as a function of soil freezing curve" width="60%">
+<img src="/images/cryostress_concept.png" alt="Soil freezing regimes and cryostress as a function of soil freezing curve" width="50%">
 
 
 
