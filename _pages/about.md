@@ -28,7 +28,7 @@ Specifically, I develop user-friendly infrastructure hazard maps to quantify inf
 
 
 4. I developed multiphysical models to understand permafrost thaw consolidation behaviors, considering adsorptive and capillary unfrozen water and secondary compression behavior.
-![Numerical algorithms and implementations](/images/multiphysics_modeling.png)
+<img src="/images/multiphysics_modeling.png" alt="Numerical algorithms and implementations" width="50%">
 
 
 
