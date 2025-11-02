@@ -18,7 +18,7 @@ Specifically, I develop user-friendly infrastructure hazard maps to quantify inf
 
 
 2. I proposed the cryostress concept to unify frozen soils’ behaviors at different temperatures. The concept is analogous to the suction stress concept, which was developed from interparticle force equilibrium, considering physicochemical and mechanical interactions.
-<img src="/images/cryostress_concept.png" alt="Soil freezing regimes and cryostress as a function of soil freezing curve" width="50%">
+![Soil freezing regimes and cryostress as a function of soil freezing curve](/images/cryostress_concept.png)
 
 
 
@@ -28,7 +28,7 @@ Specifically, I develop user-friendly infrastructure hazard maps to quantify inf
 
 
 4. I developed multiphysical models to understand permafrost thaw consolidation behaviors, considering adsorptive and capillary unfrozen water and secondary compression behavior.
-<img src="/images/multiphysics_modeling.png" alt="Numerical algorithms and implementations" width="50%">
+![Numerical algorithms and implementations](/images/multiphysics_modeling.png)
 
 
 
