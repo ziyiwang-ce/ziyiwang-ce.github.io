@@ -44,6 +44,10 @@ My research interests focus on understanding the fundamental mechanical and phys
 
 </div>
 
+Research
+=======
+
+
 Specifically, I develop user-friendly infrastructure hazard maps to quantify infrastructure risks at high resolutions to support science-based decision-making and policymaking. The physics-constrained geomechanical model applied in large-scale mapping and risk assessment was established based on field testing, laboratory testing, and process-based modeling. My research mainly focuses on:
 1. I developed the 21st-century high-resolution geomechanical modeling framework to assess the infrastructure geohazards, including thaw settlement and bearing capacity in northern Alaska.
 ![Modeled bearing capacity reduction across northern Alaska communities](/images/brca_communities.png)
