@@ -16,10 +16,11 @@ My research interests focus on understanding the fundamental mechanical and phys
   <section class="about-card">
     <h2>Interests</h2>
     <div class="pills">
-      <span class="pill">Climate resilience</span>
+      <span class="pill">Climate adaptation</span>
       <span class="pill">Infrastructure risk</span>
       <span class="pill">Frozen soil mechanics</span>
       <span class="pill">Permafrost degradation</span>
+      <span class="pill">Coastal resilience</span>
     </div>
   </section>
 
