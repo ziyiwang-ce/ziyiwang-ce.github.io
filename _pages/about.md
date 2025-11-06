@@ -16,13 +16,10 @@ My research interests focus on understanding the fundamental mechanical and phys
   <section class="about-card">
     <h2>Interests</h2>
     <div class="pills">
-      <span class="pill">Permafrost geomechanics</span>
-      <span class="pill">Physics-constrained modeling</span>
-      <span class="pill">Thaw consolidation</span>
-      <span class="pill">Ice creep &amp; cryostress</span>
-      <span class="pill">Remote sensing (InSAR/LiDAR/AEM)</span>
-      <span class="pill">Infrastructure risk mapping</span>
-      <span class="pill">ArcGIS · MATLAB · COMSOL</span>
+      <span class="pill">Climate resilience</span>
+      <span class="pill">Infrastructure risk</span>
+      <span class="pill">Frozen soil mechanics</span>
+      <span class="pill">Permafrost degradation</span>
     </div>
   </section>
 
@@ -32,14 +29,6 @@ My research interests focus on understanding the fundamental mechanical and phys
       <li>
         <div class="degree">Ph.D., Civil Engineering</div>
         <div class="meta">Pennsylvania State University · 2025</div>
-      </li>
-      <li>
-        <div class="degree">M.S., Civil Engineering</div>
-        <div class="meta">[Your University] · [Year]</div>
-      </li>
-      <li>
-        <div class="degree">B.S., Civil Engineering</div>
-        <div class="meta">[Your University] · [Year]</div>
       </li>
     </ul>
   </section>
