@@ -27,8 +27,16 @@ My research interests focus on understanding the fundamental mechanical and phys
     <h2>Education</h2>
     <ul class="edu">
       <li>
-        <div class="degree">Ph.D., Civil Engineering</div>
-        <div class="meta">Pennsylvania State University · 2025</div>
+        <div class="degree">Ph.D. in Civil Engineering, 2025</div>
+        <div class="meta">Pennsylvania State University</div>
+      </li>
+      <li>
+        <div class="degree">M.S. in Civil Engineering, 2020</div>
+        <div class="meta">The Hong Kong Polytechnic University</div>
+      </li>
+      <li>
+        <div class="degree">B.Eng. in Civil Engineering, 2019</div>
+        <div class="meta">Chengdu University of Technology</div>
       </li>
     </ul>
   </section>
