@@ -11,6 +11,41 @@ I am currently a Postdoctoral Fellow in the Department of Civil and Environmenta
 
 My research interests focus on understanding the fundamental mechanical and physical behaviors of geomaterials, such as frozen soils, and on developing integrated tools to assess the engineering and socioeconomic impacts of permafrost degradation–induced geohazards on civil infrastructure. My research is fundamentally interdisciplinary, and I aim to contribute to the development of resilient coastal communities. I have worked with engineers, geophysicists, and social scientists to address critical challenges related to landslides, coastal erosion, flooding, and infrastructure resilience and adaptability.
 
+<div class="about-grid">
+
+  <section class="about-card">
+    <h2>Interests</h2>
+    <div class="pills">
+      <span class="pill">Permafrost geomechanics</span>
+      <span class="pill">Physics-constrained modeling</span>
+      <span class="pill">Thaw consolidation</span>
+      <span class="pill">Ice creep &amp; cryostress</span>
+      <span class="pill">Remote sensing (InSAR/LiDAR/AEM)</span>
+      <span class="pill">Infrastructure risk mapping</span>
+      <span class="pill">ArcGIS · MATLAB · COMSOL</span>
+    </div>
+  </section>
+
+  <section class="about-card">
+    <h2>Education</h2>
+    <ul class="edu">
+      <li>
+        <div class="degree">Ph.D., Civil Engineering</div>
+        <div class="meta">Pennsylvania State University · 2025</div>
+      </li>
+      <li>
+        <div class="degree">M.S., Civil Engineering</div>
+        <div class="meta">[Your University] · [Year]</div>
+      </li>
+      <li>
+        <div class="degree">B.S., Civil Engineering</div>
+        <div class="meta">[Your University] · [Year]</div>
+      </li>
+    </ul>
+  </section>
+
+</div>
+
 Specifically, I develop user-friendly infrastructure hazard maps to quantify infrastructure risks at high resolutions to support science-based decision-making and policymaking. The physics-constrained geomechanical model applied in large-scale mapping and risk assessment was established based on field testing, laboratory testing, and process-based modeling. My research mainly focuses on:
 1. I developed the 21st-century high-resolution geomechanical modeling framework to assess the infrastructure geohazards, including thaw settlement and bearing capacity in northern Alaska.
 ![Modeled bearing capacity reduction across northern Alaska communities](/images/brca_communities.png)
