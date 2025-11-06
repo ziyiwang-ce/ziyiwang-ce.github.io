@@ -41,3 +41,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+@import
+    /* ... keep your existing imports ... */
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands",
+    "custom"  /* ← add this line */
+;
