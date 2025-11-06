@@ -71,5 +71,7 @@ Specifically, I develop user-friendly infrastructure hazard maps to quantify inf
 
 5. I developed the Arctic Coastal Hazard Index, an integrated tool to assess the Arctic coastal vulnerability considering the compound effects of permafrost thaw, coastal erosion, and flooding.
 ![Projected Arctical coastal vulnerability by 2060s under RCP8.5](/images/ACHI.png)
-![Coastal land loss 1](/images/coastal_erosion1.png)
-![Coastal land loss 2](/images/coastal_erosion2.png)
+<p align="center">
+  <img src="/images/coastal_erosion1.png" alt="Coastal land loss 1" width="49%">
+  <img src="/images/coastal_erosion2.png" alt="Coastal land loss 2" width="49%">
+</p>
