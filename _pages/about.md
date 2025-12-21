@@ -53,8 +53,8 @@ My research interests focus on understanding the fundamental mechanical and phys
   <a class="highlight-card" href="/#research">
     <img src="/images/1_infrastructure_risk.png" alt="Infrastructure risk assessment">
     <div class="highlight-body">
-      <div class="highlight-title">Climate-resilient infrastructure</div>
-      <p class="highlight-desc">High-resolution risk assessment for thaw settlement and bearing capacity.</p>
+      <div class="highlight-title">Early warning of infrastructure risk</div>
+      <p class="highlight-desc">High-resolution, physics-based risk assessment.</p>
     </div>
   </a>
 
@@ -70,7 +70,7 @@ My research interests focus on understanding the fundamental mechanical and phys
     <img src="/images/3_multiphase_modeling.png" alt="Multiphysics / multiphase modeling">
     <div class="highlight-body">
       <div class="highlight-title">Multiphysics / multiphase modeling</div>
-      <p class="highlight-desc">Mechanistic modeling of thaw consolidation with unfrozen water and creep.</p>
+      <p class="highlight-desc">Mechanistic modeling of freeze and thaw.</p>
     </div>
   </a>
 
