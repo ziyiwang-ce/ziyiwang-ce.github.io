@@ -67,7 +67,7 @@ My research interests focus on understanding the fundamental mechanical and phys
   </a>
 
   <a class="highlight-card" href="/#research">
-    <img src="/images/3_multiphase_modeling.png" alt="Multiphysics and multiphase modeling">
+    <img src="/images/3_multiphase_modeling.png" alt="Multiphysics / multiphase modeling">
     <div class="highlight-body">
       <div class="highlight-title">Multiphysics / multiphase modeling</div>
       <p class="highlight-desc">Mechanistic modeling of thaw consolidation with unfrozen water and creep.</p>
