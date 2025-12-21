@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: ""   # hide the "About" heading
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![Title figure](/images/title_fig.png)
+<img src="/images/title_fig.png" alt="Title figure" style="width:100%; max-height:300px; object-fit:contain; display:block; margin:0 auto;">
 
 I am currently a Postdoctoral Fellow in the Department of Civil and Environmental Engineering at the Colorado School of Mines, working with Professor Ning Lu. I received my Ph.D. in Civil Engineering (Geotechnical Engineering) from The Pennsylvania State University in May 2025, under the supervision of Professor Ming Xiao.
 
