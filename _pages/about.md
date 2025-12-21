@@ -54,7 +54,7 @@ My research interests focus on understanding the fundamental mechanical and phys
     <img src="/images/1_infrastructure_risk.png" alt="Infrastructure risk assessment">
     <div class="highlight-body">
       <div class="highlight-title">Early warning of infrastructure risk</div>
-      <p class="highlight-desc">High-resolution, physics-based risk assessment.</p>
+      <p class="highlight-desc">High-resolution, physics-based geohazards mapping.</p>
     </div>
   </a>
 
