@@ -46,6 +46,44 @@ My research interests focus on understanding the fundamental mechanical and phys
 
 </div>
 
+<h2>Highlights</h2>
+
+<div class="highlights-grid">
+
+  <a class="highlight-card" href="/#research">
+    <img src="/images/1_infrastructure_risk" alt="Infrastructure risk assessment">
+    <div class="highlight-body">
+      <div class="highlight-title">Climate-resilient infrastructure</div>
+      <p class="highlight-desc">High-resolution risk assessment for thaw settlement and bearing capacity.</p>
+    </div>
+  </a>
+
+  <a class="highlight-card" href="/#research">
+    <img src="/images/2_coastal_risk" alt="Coastal resilience">
+    <div class="highlight-body">
+      <div class="highlight-title">Coastal resilience</div>
+      <p class="highlight-desc">Compound coastal hazards from permafrost thaw, erosion, and flooding.</p>
+    </div>
+  </a>
+
+  <a class="highlight-card" href="/#research">
+    <img src="/images/3_multiphase_modeling" alt="Multiphysics and multiphase modeling">
+    <div class="highlight-body">
+      <div class="highlight-title">Multiphysics / multiphase modeling</div>
+      <p class="highlight-desc">Mechanistic modeling of thaw consolidation with unfrozen water and creep.</p>
+    </div>
+  </a>
+
+  <a class="highlight-card" href="/#research">
+    <img src="/images/4_laboratory" alt="Field and laboratory testing">
+    <div class="highlight-body">
+      <div class="highlight-title">Field &amp; laboratory testing</div>
+      <p class="highlight-desc">Coring, geophysics, and lab characterization of ice-rich permafrost.</p>
+    </div>
+  </a>
+
+</div>
+
 Research
 =======
 
