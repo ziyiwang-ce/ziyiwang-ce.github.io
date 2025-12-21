@@ -84,6 +84,10 @@ My research interests focus on understanding the fundamental mechanical and phys
 
 </div>
 
+News
+=======
+Oct 2023 – Arctic Coasts Workshop, Boulder, CO: Changes, Impacts, and Solutions - Working Towards a Resilient Future.
+
 Research
 =======
 
