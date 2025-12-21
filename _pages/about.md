@@ -70,7 +70,7 @@ My research interests focus on understanding the fundamental mechanical and phys
     <img src="/images/3_multiphase_modeling.png" alt="Multiphysics / multiphase modeling">
     <div class="highlight-body">
       <div class="highlight-title">Multiphysics / multiphase modeling</div>
-      <p class="highlight-desc">Mechanistic modeling of freeze and thaw.</p>
+      <p class="highlight-desc">Mechanistic modeling of freezing and thawing of porous media.</p>
     </div>
   </a>
 
