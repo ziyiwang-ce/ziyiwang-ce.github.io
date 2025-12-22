@@ -88,7 +88,7 @@ News
 =======
 
 - **Dec 2025** – Attended the American Geophysical Union (AGU) 2025 Annual Meeting, New Orleans, LA.
-- **Oct 2025** – New paper published: comprehensive analysis of ice-rich permafrost creep behavior and the interactive effects of temperature, salinity, and soil particle fraction on long-term strength, *ASCE Journal of Geotechnical and Geoenvironmental Engineering*.
+- **Oct 2025** – New paper published: comprehensive analysis of ice-rich permafrost creep behavior and the interactive effects of temperature, salinity, and soil particle fraction on long-term strength, [*ASCE Journal of Geotechnical and Geoenvironmental Engineering*](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-13324).
 - **Oct 2025** – New paper published: large-strain thaw consolidation model developed and validated with secondary compression and permafrost composition effects, considering both adsorptive and capillary unfrozen water, *Cold Regions Science and Technology*.
 - **Jul 2025** – Started a new role as Postdoctoral Fellow, Department of Civil and Environmental Engineering, Colorado School of Mines.
 - **May 2025** – Passed Ph.D. dissertation defense, Department of Civil and Environmental Engineering, The Pennsylvania State University.
