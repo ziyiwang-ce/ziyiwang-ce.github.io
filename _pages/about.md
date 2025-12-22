@@ -86,7 +86,12 @@ My research interests focus on understanding the fundamental mechanical and phys
 
 News
 =======
-Oct 2023 – Arctic Coasts Workshop, Boulder, CO: Changes, Impacts, and Solutions - Working Towards a Resilient Future.
+
+Oct 2023 – Attended Arctic Coasts Workshop at Boulder, CO: Changes, Impacts, and Solutions - Working Towards a Resilient Future.
+Sep 2023 - New paper out: Proposed Arctic Coastal Hazard Index (ACHI) that 
+Jul 2023 - New paper out: A systematic review of geohazard mapping tools and an integrated framework were formulated, aiming to inform science-based decisions and policymaking in response to the ongoing environmental changes, Cold Regions Science and Technology.
+Jan 2023 - Attended NSF Natigating New Arctic project meeting at Pittsburg, PA: Resilience and adaptation to permafrost degradation induced coastal erosion.
+Aug 2022 - Conducted field work near Utgiavik, AK: undisturbed permafrost coring, geophysical testing, laboratory testing.
 
 Research
 =======
