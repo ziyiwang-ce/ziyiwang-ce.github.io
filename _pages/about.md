@@ -98,7 +98,7 @@ News
 - **Sep 2024** – Awarded the [Deep Foundations Institute (DFI) Francis Gularte Scholarship](https://dfi.org/news/dfi-educational-trust-awards-scholarship-funds-to-32-students-pursuing-careers-in-deep-foundations-2/).
 - **May 2024** – Awarded the Thomas Krzewinski Best Student Presentation of Merit, 20th ASCE International Conference on Cold Regions Engineering.
 - **May 2024** – Attended the ASCE International Conference on Cold Regions Engineering, Anchorage, AK; delivered an oral presentation on experimental testing of retrieved permafrost samples.
-- **Oct 2023** – Attended the Arctic Coasts Workshop, Boulder, CO: “Changes, Impacts, and Solutions—Working Towards a Resilient Future.”
+- **Oct 2023** – Attended the Arctic Coasts Workshop, Boulder, CO: [“Changes, Impacts, and Solutions—Working Towards a Resilient Future.”](https://www.engr.psu.edu/xiao/images/Research/Arctic%20Coasts%20Workshop%20final%20report%20(April%2016%202024).pdf)
 - **Sep 2023** – New paper published: proposed the holistic Arctic Coastal Hazard Index (ACHI) to assess Arctic coastal vulnerability to permafrost thaw, coastal erosion, and coastal flooding, [*Environmental Research Letters*](10.1088/1748-9326/acf4ac).
 - **Jul 2023** – New paper published: systematic review of geohazard mapping tools and an integrated framework to support science-based decision-making and policymaking under rapid environmental change, [*Cold Regions Science and Technology*](https://doi.org/10.1016/j.coldregions.2023.103969).
 - **Jan 2023** – Attended the NSF Navigating the New Arctic project meeting, Pittsburgh, PA: resilience and adaptation to permafrost-degradation–induced coastal erosion.
