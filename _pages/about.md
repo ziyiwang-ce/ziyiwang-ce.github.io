@@ -86,22 +86,24 @@ My research interests focus on understanding the fundamental mechanical and phys
 
 News
 =======
-Dec 2025 - Attended American Geophysical Union (AGU) 2025 annual meeting, New Orleans, LA.
-Oct 2025 - New paper out: comprehensive analysis of ice-rich permafrost creep behavior and the interactive effects between temperature, salinity, and soil particle fraction on permafrost's long-term strength, ASCE Journal of Geotechnical and Geoenvironmental Engineering.
-Oct 2025 - New paper out: A large strain thaw consolidation model developed and validated considering secondary compression with permafrost composition characteristics consider both adsorptive and capillary unfrozen water, Cold Regions Science and Technology.
-Jul 2025 - Started new role as Postdoctoral Fellow, Department of Civil and Environmental Engineering, Colorado School of Mines.
-May 2025 - Ph.D. dissertation defense passed, Department of Civil and Environmental Engineering, Pennsylvania State University.
-Dec 2024 - Awarded Mark E. and Claire L. Alpert Fellowship, Department of Civil and Environmental Engineering, Pennsylvania State University.
-Oct 2024 - Selected as outstanding reviewer: ASCE Journal of Cold Regions Engineering.
-Sep 2024 - Awarded Deep Foundations Institute (DFI) Francis Gularte Scholarship.
-May 2024 - Awarded Thomas Krzewinski Best Student Presentation of Merit: 20th ASCE International Conference on Cold Regions Engineering.
-May 2024 - Attended ASCE International Conference on Cold Regions Engineering, Anchorage, AK: Oral presentation of experimental tests of retrived permafrost samples.
-Oct 2023 – Attended Arctic Coasts Workshop at Boulder, CO: Changes, Impacts, and Solutions - Working Towards a Resilient Future.
-Sep 2023 - New paper out: Proposed the holistic Arctic Coastal Hazard Index (ACHI) to assess the vulnerability of Arctic coasts to permafrost thawing, coastal erosion, and coastal flooding, Environmental Research Letters.
-Jul 2023 - New paper out: A systematic review of geohazard mapping tools and an integrated framework were formulated, aiming to inform science-based decisions and policymaking in response to the ongoing environmental changes, Cold Regions Science and Technology.
-Jan 2023 - Attended NSF Natigating New Arctic project meeting at Pittsburg, PA: Resilience and adaptation to permafrost degradation induced coastal erosion.
-Sep 2022 - Awarded Leo P. Russell Graduate Fellowship in Civil Engineering, Department of Civil and Environmental Engineering, The Pennsylvania State University.
-Aug 2022 - Conducted field work near Utgiavik, AK: undisturbed permafrost coring, geophysical testing, laboratory testing.
+
+- **Dec 2025** – Attended the American Geophysical Union (AGU) 2025 Annual Meeting, New Orleans, LA.
+- **Oct 2025** – New paper published: comprehensive analysis of ice-rich permafrost creep behavior and the interactive effects of temperature, salinity, and soil particle fraction on long-term strength, *ASCE Journal of Geotechnical and Geoenvironmental Engineering*.
+- **Oct 2025** – New paper published: large-strain thaw consolidation model developed and validated with secondary compression and permafrost composition effects, considering both adsorptive and capillary unfrozen water, *Cold Regions Science and Technology*.
+- **Jul 2025** – Started a new role as Postdoctoral Fellow, Department of Civil and Environmental Engineering, Colorado School of Mines.
+- **May 2025** – Passed Ph.D. dissertation defense, Department of Civil and Environmental Engineering, The Pennsylvania State University.
+- **Dec 2024** – Awarded the Mark E. and Claire L. Alpert Fellowship, Department of Civil and Environmental Engineering, The Pennsylvania State University.
+- **Oct 2024** – Selected as an Outstanding Reviewer, *ASCE Journal of Cold Regions Engineering*.
+- **Sep 2024** – Awarded the Deep Foundations Institute (DFI) Francis Gularte Scholarship.
+- **May 2024** – Awarded the Thomas Krzewinski Best Student Presentation of Merit, 20th ASCE International Conference on Cold Regions Engineering.
+- **May 2024** – Attended the ASCE International Conference on Cold Regions Engineering, Anchorage, AK; delivered an oral presentation on experimental testing of retrieved permafrost samples.
+- **Oct 2023** – Attended the Arctic Coasts Workshop, Boulder, CO: “Changes, Impacts, and Solutions—Working Towards a Resilient Future.”
+- **Sep 2023** – New paper published: proposed the holistic Arctic Coastal Hazard Index (ACHI) to assess Arctic coastal vulnerability to permafrost thaw, coastal erosion, and coastal flooding, *Environmental Research Letters*.
+- **Jul 2023** – New paper published: systematic review of geohazard mapping tools and an integrated framework to support science-based decision-making and policymaking under rapid environmental change, *Cold Regions Science and Technology*.
+- **Jan 2023** – Attended the NSF Navigating the New Arctic project meeting, Pittsburgh, PA: resilience and adaptation to permafrost-degradation–induced coastal erosion.
+- **Sep 2022** – Awarded the Leo P. Russell Graduate Fellowship in Civil Engineering, Department of Civil and Environmental Engineering, The Pennsylvania State University.
+- **Aug 2022** – Conducted fieldwork near Utqiaġvik, AK: undisturbed permafrost coring, geophysical testing, and laboratory testing.
+
 
 Research
 =======
