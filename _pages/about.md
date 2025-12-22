@@ -86,7 +86,11 @@ My research interests focus on understanding the fundamental mechanical and phys
 
 News
 =======
-Dec 2024 - Awarded 
+Oct 2025 - New paper out: comprehensive analysis of ice-rich permafrost creep behavior and the interactive effects between temperature, salinity, and soil particle fraction on permafrost's long-term strength, ASCE Journal of Geotechnical and Geoenvironmental Engineering.
+Oct 2025 - New paper out: A large strain thaw consolidation model developed and validated considering secondary compression with permafrost composition characteristics consider both adsorptive and capillary unfrozen water, Cold Regions Science and Technology.
+Jul 2025 - Started new role as Postdoctoral Fellow, Department of Civil and Environmental Engineering, Colorado School of Mines.
+May 2025 - Ph.D. dissertation defense passed, Department of Civil and Environmental Engineering, Pennsylvania State University.
+Dec 2024 - Awarded Mark E. and Claire L. Alpert Fellowship, Department of Civil and Environmental Engineering, Pennsylvania State University.
 Oct 2024 - Selected as outstanding reviewer: ASCE Journal of Cold Regions Engineering.
 Sep 2024 - Awarded Deep Foundations Institute (DFI) Francis Gularte Scholarship.
 May 2024 - Awarded Thomas Krzewinski Best Student Presentation of Merit: 20th ASCE International Conference on Cold Regions Engineering.
