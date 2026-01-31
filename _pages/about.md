@@ -86,7 +86,7 @@ My research interests focus on understanding the fundamental mechanical and phys
 
 News
 =======
-
+- **Jan 2026** – New paper published: High-Resolution Geomechanical Modeling Reveals Accelerating Infrastructure Risks from Permafrost Degradation in Northern Alaska, [*Communications Earth and Environment*](https://doi.org/10.1038/s43247-026-03240-5).
 - **Dec 2025** – Attended the American Geophysical Union (AGU) 2025 Annual Meeting, New Orleans, LA.
 - **Oct 2025** – New paper published: comprehensive analysis of ice-rich permafrost creep behavior and the interactive effects of temperature, salinity, and soil particle fraction on long-term strength, [*ASCE Journal of Geotechnical and Geoenvironmental Engineering*](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-13324).
 - **Oct 2025** – New paper published: large-strain thaw consolidation model developed and validated with secondary compression and permafrost composition effects, considering both adsorptive and capillary unfrozen water, [*Cold Regions Science and Technology*](https://doi.org/10.1016/j.coldregions.2025.104714).
