@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <div class="gallery-grid">
-  <img src="/images/p_13_graduation_photo2.png" alt="">
+  <img src="/images/p14_graduation_photo3.png" alt="">
   <img src="/images/p9_defense.png" alt="">
   <img src="/images/p11_geocongress_psugroup.png" alt="">
   <img src="/images/p7_geocongress.png" alt="">
