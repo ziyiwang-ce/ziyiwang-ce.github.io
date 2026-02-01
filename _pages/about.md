@@ -84,8 +84,10 @@ My research interests focus on understanding the fundamental mechanical and phys
 
 </div>
 
-News
-=======
+## News
+
+<div class="news-scroll" markdown="1">
+
 - **Jan 2026** – New paper published: High-Resolution Geomechanical Modeling Reveals Accelerating Infrastructure Risks from Permafrost Degradation in Northern Alaska, [*Communications Earth and Environment*](https://doi.org/10.1038/s43247-026-03240-5).
 - **Dec 2025** – Attended the American Geophysical Union (AGU) 2025 Annual Meeting, New Orleans, LA.
 - **Oct 2025** – New paper published: comprehensive analysis of ice-rich permafrost creep behavior and the interactive effects of temperature, salinity, and soil particle fraction on long-term strength, [*ASCE Journal of Geotechnical and Geoenvironmental Engineering*](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-13324).
@@ -104,6 +106,8 @@ News
 - **Jan 2023** – Attended the NSF Navigating the New Arctic project meeting, Pittsburgh, PA: resilience and adaptation to permafrost-degradation–induced coastal erosion.
 - **Sep 2022** – Awarded the Leo P. Russell Graduate Fellowship in Civil Engineering, Department of Civil and Environmental Engineering, The Pennsylvania State University.
 - **Aug 2022** – Conducted fieldwork near Utqiaġvik, AK: undisturbed permafrost coring, geophysical testing, and laboratory testing.
+
+</div>
 
 
 Research
