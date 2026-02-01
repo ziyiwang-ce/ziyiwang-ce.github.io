@@ -58,6 +58,7 @@
 }
 
 .gallery-grid img.top-crop{
+  object-fit: contain;        /* shows more of the photo */
   object-position: 50% 10%;   /* shift crop upward */
   /* try 0% (very top), 10%, 20% until the head shows nicely */
 }
