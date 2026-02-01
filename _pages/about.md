@@ -108,5 +108,3 @@ My research interests focus on understanding the fundamental mechanical and phys
 - **Aug 2022** – Conducted fieldwork near Utqiaġvik, AK: undisturbed permafrost coring, geophysical testing, and laboratory testing.
 
 </div>
-
-</p>
