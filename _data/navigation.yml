@@ -17,6 +17,9 @@ main:
   - title: "Gallery"
     url: /gallery/
 
+  - title: "Research"
+    url: /Research/
+
  # - title: "CV"
  #   url: /cv/
     
