@@ -6,31 +6,128 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
-{% include base_path %}
+<h2>Journal Articles</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ol class="publication-list">
 
+  <li>
+    <strong>Wang, Z.</strong>, Lu, N., Gou, L., and Likos, W. J.
+    "Generalized effective stress equation for variably saturated frozen soil."
+    <em>ASCE Journal of Geotechnical and Geoenvironmental Engineering</em>
+    (accepted for publication).
+  </li>
 
+  <li>
+    Gou, L., Likos, W. J., <strong>Wang, Z.</strong>, and Lu, N.
+    "Origin and implications of cryosuction in frozen soil."
+    <em>ASCE Journal of Geotechnical and Geoenvironmental Engineering</em>
+    (accepted for publication).
+  </li>
 
+  <li>
+    <strong>Wang, Z.</strong>, and Lu, N.
+    "Cryostress in Frozen Soil: Part II—Closed Form Equation for Effective Stress in Saturated Frozen Soil."
+    <em>ASCE Journal of Engineering Mechanics</em>
+    (accepted for publication).
+  </li>
+
+  <li>
+    Lu, N., <strong>Wang, Z.</strong>, and Likos, W. J.
+    "Cryostress in Frozen Soil: Part I—Concept, Definition, and Validation."
+    <em>ASCE Journal of Engineering Mechanics</em>
+    (accepted for publication).
+  </li>
+
+  <li>
+    <strong>Wang, Z.</strong>, and Xiao, M. 2026.
+    <a href="https://doi.org/10.1038/s43247-026-03240-5">
+      "High-resolution geomechanical modeling reveals accelerating infrastructure risks from permafrost degradation in northern Alaska."
+    </a>
+    <em>Communications Earth &amp; Environment</em>.
+  </li>
+
+  <li>
+    <strong>Wang, Z.</strong>, Xiao, M., Bray, M., Nicolsky, D., and Ji, X. 2026.
+    <a href="https://doi.org/10.1061/JGGEFK.GTENG-13324">
+      "Creep deformation and long-term strength of ice-rich permafrost in Northern Alaska."
+    </a>
+    <em>ASCE Journal of Geotechnical and Geoenvironmental Engineering</em>
+    152(1): 04025161.
+  </li>
+
+  <li>
+    <strong>Wang, Z.</strong>, and Xiao, M. 2025.
+    <a href="https://doi.org/10.1016/j.coldregions.2025.104714">
+      "Large-strain thaw consolidation model for ice-rich fine-grained permafrost considering adsorptive and capillary unfrozen water and secondary compression."
+    </a>
+    <em>Cold Regions Science and Technology</em>
+    217: 104714.
+  </li>
+
+  <li>
+    Tourei, A., Ji, X. H., dos Santos, G. R., Czarny, R., Rybakov, S.,
+    <strong>Wang, Z.</strong>, Hallissey, M., Martin, E. R., Xiao, M.,
+    Zhu, T. Y., Nicolsky, D., and Jensen, A. 2024.
+    <a href="https://doi.org/10.1029/2023JF007352">
+      "Mapping permafrost variability and degradation using seismic surface waves, electrical resistivity, and temperature sensing: a case study from Arctic Alaska."
+    </a>
+    <em>Journal of Geophysical Research: Earth Surface</em>
+    129(3): e2023JF007352.
+  </li>
+
+  <li>
+    <strong>Wang, Z.</strong>, Xiao, M., Nicolsky, D. J., Romanovsky, V. E.,
+    McComb, C., and Farquharson, L. M. 2023.
+    <a href="https://doi.org/10.1088/1748-9326/acf4ac">
+      "Arctic coastal hazard assessment considering permafrost thaw subsidence, coastal erosion, and flooding."
+    </a>
+    <em>Environmental Research Letters</em>
+    18(10): 104003.
+  </li>
+
+  <li>
+    <strong>Wang, Z.</strong>, Xiao, M., Liew, M., Jensen, A., Farquharson, L.,
+    Romanovsky, V., Nicolsky, D., McComb, C., Jones, B. M., Zhang, X.,
+    and Alessa, L. 2023.
+    <a href="https://doi.org/10.1016/j.coldregions.2023.103969">
+      "Arctic geohazard mapping tools for civil infrastructure planning: a systematic review."
+    </a>
+    <em>Cold Regions Science and Technology</em>
+    214: 103969.
+  </li>
+
+  <li>
+    <strong>Wang, Z.</strong>, Wang, P., Yin, Z. Y., and Wang, R. 2022.
+    <a href="https://doi.org/10.1007/s11440-022-01501-z">
+      "Micromechanical investigation of the particle size effect on the shear strength of uncrushable granular materials."
+    </a>
+    <em>Acta Geotechnica</em>
+    17(10): 4277–4296.
+  </li>
+
+  <li>
+    Wang, P., Yin, Z. Y., and <strong>Wang, Z.</strong> 2022.
+    <a href="https://doi.org/10.1061/(ASCE)EM.1943-7889.0002039">
+      "Micromechanical investigation of particle-size effect of granular materials in biaxial test with the role of particle breakage."
+    </a>
+    <em>ASCE Journal of Engineering Mechanics</em>
+    148(1): 04021133.
+  </li>
+
+  <li>
+    <strong>Wang, Z.</strong>, Fang, Y. F., Feng, W. Q., Tian, X. J.,
+    and Lin, J. F. 2022.
+    <a href="https://doi.org/10.2113/2022/1608454">
+      "Comparative study on particle size effect of crushable granular soils through DEM simulations."
+    </a>
+    <em>Lithosphere</em>
+    4: 1608454.
+  </li>
+
+</ol>
