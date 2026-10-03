@@ -88,6 +88,8 @@ My research interests focus on understanding the fundamental mechanical and phys
 
 <div class="news-scroll" markdown="1">
 
+- **Sep 2026** – New paper published: Cryostress in Frozen Soil. II: Closed-Form Equation for Effective Stress in Saturated Frozen Soil, [*ASCE Journal of Engineering Mechanics*](https://doi.org/10.1061/JENMDT.EMENG-8981).
+- **Sep 2026** – New paper published: Cryostress in Frozen Soil. I: Concept, Definition, and Validation, [*ASCE Journal of Engineering Mechanics*](https://doi.org/10.1061/JENMDT.EMENG-9041).
 - **Jan 2026** – New paper published: High-Resolution Geomechanical Modeling Reveals Accelerating Infrastructure Risks from Permafrost Degradation in Northern Alaska, [*Communications Earth and Environment*](https://doi.org/10.1038/s43247-026-03240-5).
 - **Dec 2025** – Attended the American Geophysical Union (AGU) 2025 Annual Meeting, New Orleans, LA.
 - **Oct 2025** – New paper published: comprehensive analysis of ice-rich permafrost creep behavior and the interactive effects of temperature, salinity, and soil particle fraction on long-term strength, [*ASCE Journal of Geotechnical and Geoenvironmental Engineering*](https://ascelibrary.org/doi/abs/10.1061/JGGEFK.GTENG-13324).
